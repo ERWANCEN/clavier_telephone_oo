@@ -31,7 +31,7 @@ class ClavierTelephone
     }
 
     /**
-     * Fonction setter (commutateur), remplissant la propriété "$this->_resultat" de chaque élément de la réponse attendue
+     * Fonction setter (mutateur), remplissant la propriété "$this->_resultat" de chaque élément de la réponse attendue
      *
      * @param string $message
      * @return void
